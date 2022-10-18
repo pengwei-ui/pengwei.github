@@ -7,6 +7,7 @@ public class train {
       My_Math my_math = new My_Math();
       System.out.println(my_math.Add(1,2));
       System.out.println(my_math.Concat("hello", "world"));
+      System.out.println();
    }
 }
 class My_Math{
